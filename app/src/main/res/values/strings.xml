@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">github_repositories</string>
+    <string name="github">GitHub</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="limpar">Limpar</string>
+    <string name="restult">Restultado: </string>
+    <string name="github_nickname">github_nickname</string>
+</resources>
